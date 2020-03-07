@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="340f2f46-fc17-4f76-8a91-ab51bc02657f" name="theaudacity">
-      <server useHttp="false" host="github.com" />
-    </account>
-  </component>
-</application>
